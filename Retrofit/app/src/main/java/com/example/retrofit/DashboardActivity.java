@@ -1,5 +1,6 @@
 package com.example.retrofit;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -16,14 +17,14 @@ private Button Search,Add;
         Search.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                startActivity(new Intent(DashboardActivity.this, SearchEmployeActivity.class));
             }
         });
 
         Add.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                startActivity(new Intent(DashboardActivity.this, AddEmployeeActivity.class));
             }
         });
     }

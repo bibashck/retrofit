@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/1fb5565b076ee8042a0f4446af29e55c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/softwarica/.gradle/caches/transforms-2/files-2.1/a409406861c99a60db6c3563b49106e7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/1b2fc760cfabbcb50d082a2ade029f5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/8146fef6d860b768f2ce9c8605c0c333/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/388a6ba51812077a7a58958d52b0f6d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/4a6b83e24f070a84b30723d39cf49686/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/e12db3a11796ea0f0829b51f46e74040/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/540dbd0ca180244667a65d2003599c26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/4a73c2cb7472b7b43a7cc187cf6bc4f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/213e8c9037be7dd29e180966648ce9b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/6aa60886036cc022da265d208fd7840c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/9fc43b24389fb2490e257f28de425bb5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/0280176a2b5a69cba584cb3e0ddbd004/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/cb26344d5c34f25e701d3aa32d27ba94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/c650f41a5c676844dacc47741cf89bff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/44bc2843d083009609d976983a434e42/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/caa63f472fbb869f0591ee273d9d5b9d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/6bbee91f33501efb9ad9a4baff19c741/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/d9f8484bd5d525ea9b1b5d4de5367e6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/d5d6abf95e8e3bcfeaf250f0f47991a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/6bc3aeb0e9e97bb09d0c0079794669f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/84f467a2ea6780ecd7ccb06c2994fc7e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/5a96854bbab40bcf2bffafbba7e7eb30/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/fdbc07d63c53d9c3d86c9767ca9309e9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/35e76c98c5a9e13167129cb0b2891781/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/e191cbaa340359b9193aeb8c3b9db759/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/787f5c358f0a2bd8f223d1339c79f9ae/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/softwarica/.gradle/caches/transforms-2/files-2.1/a409406861c99a60db6c3563b49106e7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/softwarica/.gradle/caches/transforms-2/files-2.1/a409406861c99a60db6c3563b49106e7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/44bc2843d083009609d976983a434e42/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/44bc2843d083009609d976983a434e42/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/caa63f472fbb869f0591ee273d9d5b9d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/caa63f472fbb869f0591ee273d9d5b9d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/44bc2843d083009609d976983a434e42/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:13:9-40
+	android:usesCleartextTraffic
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:14:9-44
+activity#com.example.retrofit.AddEmployeeActivity
+ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:15:19-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.retrofit.DashboardActivity
+ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:22:9-55
+	android:name
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:22:19-52
+activity#com.example.retrofit.SearchEmployeActivity
+ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:23:9-25:20
+	android:name
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:23:19-56
+activity#com.example.retrofit.MainActivity
+ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:26:9-27:20
+	android:name
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml:26:19-47
+uses-sdk
+INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/1fb5565b076ee8042a0f4446af29e55c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/1fb5565b076ee8042a0f4446af29e55c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/softwarica/.gradle/caches/transforms-2/files-2.1/a409406861c99a60db6c3563b49106e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/softwarica/.gradle/caches/transforms-2/files-2.1/a409406861c99a60db6c3563b49106e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/1b2fc760cfabbcb50d082a2ade029f5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/1b2fc760cfabbcb50d082a2ade029f5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/8146fef6d860b768f2ce9c8605c0c333/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/8146fef6d860b768f2ce9c8605c0c333/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/388a6ba51812077a7a58958d52b0f6d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/388a6ba51812077a7a58958d52b0f6d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/4a6b83e24f070a84b30723d39cf49686/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/4a6b83e24f070a84b30723d39cf49686/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/e12db3a11796ea0f0829b51f46e74040/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/e12db3a11796ea0f0829b51f46e74040/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/540dbd0ca180244667a65d2003599c26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/540dbd0ca180244667a65d2003599c26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/4a73c2cb7472b7b43a7cc187cf6bc4f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/4a73c2cb7472b7b43a7cc187cf6bc4f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/213e8c9037be7dd29e180966648ce9b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/213e8c9037be7dd29e180966648ce9b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/6aa60886036cc022da265d208fd7840c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/6aa60886036cc022da265d208fd7840c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/9fc43b24389fb2490e257f28de425bb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/9fc43b24389fb2490e257f28de425bb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/0280176a2b5a69cba584cb3e0ddbd004/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/0280176a2b5a69cba584cb3e0ddbd004/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/cb26344d5c34f25e701d3aa32d27ba94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/cb26344d5c34f25e701d3aa32d27ba94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/c650f41a5c676844dacc47741cf89bff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/c650f41a5c676844dacc47741cf89bff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/44bc2843d083009609d976983a434e42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/44bc2843d083009609d976983a434e42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/caa63f472fbb869f0591ee273d9d5b9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/caa63f472fbb869f0591ee273d9d5b9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/6bbee91f33501efb9ad9a4baff19c741/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/6bbee91f33501efb9ad9a4baff19c741/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/d9f8484bd5d525ea9b1b5d4de5367e6f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/d9f8484bd5d525ea9b1b5d4de5367e6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/d5d6abf95e8e3bcfeaf250f0f47991a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/d5d6abf95e8e3bcfeaf250f0f47991a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/6bc3aeb0e9e97bb09d0c0079794669f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/6bc3aeb0e9e97bb09d0c0079794669f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/84f467a2ea6780ecd7ccb06c2994fc7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/84f467a2ea6780ecd7ccb06c2994fc7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/5a96854bbab40bcf2bffafbba7e7eb30/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/5a96854bbab40bcf2bffafbba7e7eb30/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/fdbc07d63c53d9c3d86c9767ca9309e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/fdbc07d63c53d9c3d86c9767ca9309e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/35e76c98c5a9e13167129cb0b2891781/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/35e76c98c5a9e13167129cb0b2891781/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/e191cbaa340359b9193aeb8c3b9db759/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/softwarica/.gradle/caches/transforms-2/files-2.1/e191cbaa340359b9193aeb8c3b9db759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/787f5c358f0a2bd8f223d1339c79f9ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/softwarica/.gradle/caches/transforms-2/files-2.1/787f5c358f0a2bd8f223d1339c79f9ae/AndroidManifest.xml:20:5-44
+INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /home/softwarica/Desktop/bibash/retrofit/Retrofit/app/src/main/AndroidManifest.xml

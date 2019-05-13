@@ -32,5 +32,11 @@
         android:text="Register"
         android:layout_margin="20dp"
         android:id="@+id/btnRegister"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="dashboard"
+        android:layout_margin="20dp"
+        android:id="@+id/dashboard"/>
 
 </LinearLayout>

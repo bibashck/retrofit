@@ -1,5 +1,6 @@
 package com.example.retrofit;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -20,7 +21,9 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class AddEmployeeActivity extends AppCompatActivity {
     private final static  String BASE_URL="http://dummy.restapiexample.com/api/v1/";
     private EditText etName,etSalary,etEmpAge;
-    private Button btnRegister;
+    private Button btnRegister,dashboard;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -29,10 +32,17 @@ public class AddEmployeeActivity extends AppCompatActivity {
         etSalary=findViewById(R.id.etSalary);
         etEmpAge=findViewById(R.id.etEmpAge);
         btnRegister=findViewById(R.id.btnRegister);
+        dashboard=findViewById(R.id.dashboard);
         btnRegister.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 Register();
+            }
+        });
+        dashboard.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(AddEmployeeActivity.this, DashboardActivity.class));
             }
         });
 
